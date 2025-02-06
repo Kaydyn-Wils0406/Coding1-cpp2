@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:adventure1week3hw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Co1We3ConApp.cpp",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp",
               "RelativeDocumentMoniker": "Co1We3ConApp.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp*",
               "RelativeToolTip": "Co1We3ConApp.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T15:51:47.613Z",
+              "WhenOpened": "2025-02-06T17:52:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adventure1week3hw.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp",
+              "RelativeDocumentMoniker": "adventure1week3hw.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp*",
+              "RelativeToolTip": "adventure1week3hw.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T17:48:18.888Z",
               "EditorCaption": ""
             }
           ]

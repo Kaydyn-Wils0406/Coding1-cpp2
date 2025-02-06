@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="adventure1week3hw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Co1We3ConApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

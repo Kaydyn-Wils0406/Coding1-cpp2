@@ -1,2 +1,7 @@
-﻿  Co1We3ConApp.cpp
-  Co1We3ConApp.vcxproj -> C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\x64\Debug\Co1We3ConApp.exe
+﻿  adventure1week3hw.cpp
+  Co1We3ConApp.cpp
+C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\adventure1week3hw.cpp(7,1): error C2143: syntax error: missing ';' before 'while'
+C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\adventure1week3hw.cpp(7,1): error C2059: syntax error: 'while'
+C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\adventure1week3hw.cpp(7,14): error C2143: syntax error: missing ';' before '{'
+C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\adventure1week3hw.cpp(7,14): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
