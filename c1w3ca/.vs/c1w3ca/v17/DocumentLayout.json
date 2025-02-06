@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\c1w3ca\\",
+  "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\c1w3ca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFCA350C-A763-48B4-A3C5-333DD1A60EB0}|c1w3ca.vcxproj|C:\\Users\\maera\\GitHub\\c1w3ca\\c1w3ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FFCA350C-A763-48B4-A3C5-333DD1A60EB0}|c1w3ca.vcxproj|solutionrelative:c1w3ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\c1w3ca\\c1w3ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:c1w3ca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "c1w3ca.cpp",
-              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\c1w3ca\\c1w3ca.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\c1w3ca\\c1w3ca.cpp",
               "RelativeDocumentMoniker": "c1w3ca.cpp",
-              "ToolTip": "C:\\Users\\maera\\GitHub\\c1w3ca\\c1w3ca.cpp",
-              "RelativeToolTip": "c1w3ca.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\c1w3ca\\c1w3ca.cpp*",
+              "RelativeToolTip": "c1w3ca.cpp*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-06T15:42:26.216Z",
