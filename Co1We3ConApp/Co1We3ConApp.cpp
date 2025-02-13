@@ -1,6 +1,6 @@
 // Kaydyn Wilson SP2025 Coding 1 Week 3 
 // Variables, Logic, and Randomness
-
+/*
 #include <iostream>		// in out stream sends text to and from the console. 
 #include <string>		// allows us to use sring variables.
 #include <cstdlib>		// when using random numbers, dont forget to // #include <cstdlib>		// for rand() and srand()
