@@ -21,5 +21,11 @@
     <ClCompile Include="Co1We3ConApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="loop_and_lists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FavGamesCollection_HW_.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

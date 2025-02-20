@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavGamesCollection_HW_.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp",
+              "RelativeDocumentMoniker": "FavGamesCollection_HW_.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp",
+              "RelativeToolTip": "FavGamesCollection_HW_.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T18:15:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loop_and_lists.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp",
+              "RelativeDocumentMoniker": "loop_and_lists.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp",
+              "RelativeToolTip": "loop_and_lists.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T15:53:56.015Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,9 +62,10 @@
               "RelativeDocumentMoniker": "Co1We3ConApp.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp",
               "RelativeToolTip": "Co1We3ConApp.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:52:48.814Z"
+              "WhenOpened": "2025-02-06T17:52:48.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +75,7 @@
               "RelativeDocumentMoniker": "adventure1week3hw.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp",
               "RelativeToolTip": "adventure1week3hw.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-06T17:48:18.888Z",
               "EditorCaption": ""
