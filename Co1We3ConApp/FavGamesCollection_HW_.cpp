@@ -28,6 +28,7 @@ int main() {
                     for (int i = 0; i < 10; i++) {
                         if (input == favGames[i]) {
                         cout << "I've found the game. How would you like to edit it?\n";
+                        getline(cin, input);
                         favGames[i] = input;   // After the 'How would you like to edit it?' it doesnt give you an option to edit it. It just starts over. 
                         }
                     }
