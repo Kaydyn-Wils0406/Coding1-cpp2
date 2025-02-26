@@ -1,6 +1,6 @@
 // Kaydyn Wilson Coding 1 Feb 20, 2025
 // Loops and Lists
-
+/*
 #include <iostream> 
 #include <string>
 #include <ctime>
@@ -91,7 +91,7 @@ int main() {
 		cout << bestfriends[i] << "\n";
 	}
 
-	/*
+		/*
 		seed random number generator
 		(srand(time(0));
 		I do not know what to do after this. 
@@ -103,7 +103,8 @@ int main() {
 		years[2]
 		years[3] and so on and so forth. 
 	
-	*/
+		*/
+/*
 	int min = 1777;
 	int max = 2025;
 	int range = max - min;
@@ -137,7 +138,7 @@ int main() {
 
 
 
-
+*/
 
 /* create a program that will
 * 1. add a game to an array of strings

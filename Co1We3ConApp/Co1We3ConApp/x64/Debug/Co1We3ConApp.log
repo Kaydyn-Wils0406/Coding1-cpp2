@@ -1,3 +1,2 @@
-﻿  loop_and_lists.cpp
-C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\loop_and_lists.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  FavGamesCollection_HW_.cpp
   Co1We3ConApp.vcxproj -> C:\Users\maera\GitHub\Coding1-cpp2\Co1We3ConApp\x64\Debug\Co1We3ConApp.exe
