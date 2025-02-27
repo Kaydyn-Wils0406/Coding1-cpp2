@@ -60,10 +60,7 @@ int main() {
                 }
             }
         }
-        else {
-            cout << "I could not understand the command given. Because of this, you have been deemed an AI. The program will now break.\n";
-            break;
-        }
+        
         favGames[currentFavGames++] = input;
     } while (true);
 } 
