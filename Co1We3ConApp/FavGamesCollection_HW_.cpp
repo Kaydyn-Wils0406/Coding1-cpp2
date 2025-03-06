@@ -1,3 +1,4 @@
+/*
 #include <iostream> 
 #include <string>
 #include <ctime>
@@ -64,3 +65,4 @@ int main() {
         favGames[currentFavGames++] = input;
     } while (true);
 } 
+*/

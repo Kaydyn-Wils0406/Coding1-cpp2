@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:FavGamesCollection_HW_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Co1We3ConApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:loop_and_lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "recap.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\recap.cpp",
+              "RelativeDocumentMoniker": "recap.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\recap.cpp",
+              "RelativeToolTip": "recap.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T15:57:57.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FavGamesCollection_HW_.cpp",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp",
               "RelativeDocumentMoniker": "FavGamesCollection_HW_.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\FavGamesCollection_HW_.cpp",
               "RelativeToolTip": "FavGamesCollection_HW_.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-20T18:15:41.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "loop_and_lists.cpp",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\loop_and_lists.cpp",
               "RelativeDocumentMoniker": "loop_and_lists.cpp",
@@ -51,7 +68,8 @@
               "RelativeToolTip": "loop_and_lists.cpp",
               "ViewState": "AgIAAIgAAAAAAAAAAAAAAFAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T15:53:56.015Z"
+              "WhenOpened": "2025-02-20T15:53:56.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +81,8 @@
               "RelativeToolTip": "Co1We3ConApp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:52:48.814Z"
+              "WhenOpened": "2025-02-06T17:52:48.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +94,8 @@
               "RelativeToolTip": "adventure1week3hw.cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAFkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:48:18.888Z"
+              "WhenOpened": "2025-02-06T17:48:18.888Z",
+              "EditorCaption": ""
             }
           ]
         }

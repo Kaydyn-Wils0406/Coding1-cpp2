@@ -131,6 +131,7 @@
     <ClCompile Include="Co1We3ConApp.cpp" />
     <ClCompile Include="FavGamesCollection_HW_.cpp" />
     <ClCompile Include="loop_and_lists.cpp" />
+    <ClCompile Include="recap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
