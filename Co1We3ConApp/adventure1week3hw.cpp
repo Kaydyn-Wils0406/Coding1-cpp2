@@ -86,7 +86,7 @@ int main() {
 }
 
 
-// getline(cin, input);		// getline llows for spaces, only returns strings though. 
+// getline(cin, input);		// getline allows for spaces, only returns strings though. 
 //stoi(input);				// this gives you an integer from a string.
 //int age = stoi(input);
 

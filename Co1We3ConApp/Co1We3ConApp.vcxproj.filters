@@ -27,7 +27,10 @@
     <ClCompile Include="FavGamesCollection_HW_.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="recap.cpp">
+    <ClCompile Include="Adventure 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coding1Week10Class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
