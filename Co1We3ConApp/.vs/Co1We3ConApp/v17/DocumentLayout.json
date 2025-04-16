@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Adventure 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Adventure 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Coding1Week10Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Coding1Week10Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:adventure1week3hw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We13_RobotClasses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B5E54B9-A742-45E3-AC81-A27C03B2F444}|Co1We3ConApp.vcxproj|solutionrelative:Co1We13_RobotClasses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Adventure 2.cpp",
-              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Adventure 2.cpp",
-              "RelativeDocumentMoniker": "Adventure 2.cpp",
-              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Adventure 2.cpp",
-              "RelativeToolTip": "Adventure 2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Title": "Co1We13_RobotClasses.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We13_RobotClasses.cpp",
+              "RelativeDocumentMoniker": "Co1We13_RobotClasses.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Co1We13_RobotClasses.cpp",
+              "RelativeToolTip": "Co1We13_RobotClasses.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T02:44:05.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "adventure1week3hw.cpp",
-              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp",
-              "RelativeDocumentMoniker": "adventure1week3hw.cpp",
-              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\adventure1week3hw.cpp",
-              "RelativeToolTip": "adventure1week3hw.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAE4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:48:18.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Coding1Week10Class.cpp",
-              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Coding1Week10Class.cpp",
-              "RelativeDocumentMoniker": "Coding1Week10Class.cpp",
-              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Co1We3ConApp\\Coding1Week10Class.cpp",
-              "RelativeToolTip": "Coding1Week10Class.cpp",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAFoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T02:46:36.92Z",
+              "WhenOpened": "2025-04-16T17:41:12.498Z",
               "EditorCaption": ""
             }
           ]

@@ -24,6 +24,7 @@
     <ProjectGuid>{1b5e54b9-a742-45e3-ac81-a27c03b2f444}</ProjectGuid>
     <RootNamespace>Co1We3ConApp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Coding1_SP25_C++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,10 +128,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Adventure 2.cpp" />
     <ClCompile Include="adventure1week3hw.cpp" />
+    <ClCompile Include="Co1We13_RobotClasses.cpp" />
     <ClCompile Include="Co1We3ConApp.cpp" />
-    <ClCompile Include="Coding1Week10Class.cpp" />
     <ClCompile Include="FavGamesCollection_HW_.cpp" />
     <ClCompile Include="loop_and_lists.cpp" />
   </ItemGroup>
