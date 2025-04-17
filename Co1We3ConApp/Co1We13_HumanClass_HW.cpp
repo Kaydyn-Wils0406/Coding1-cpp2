@@ -5,44 +5,51 @@ using namespace std;
 
 class human {
 
-private:
+protected:			// change from private to allow child classes to inherit these variables. 
 
 	string name;
-	int health = 30, damage = 15;
+	int health;
+	int damage;
 
 public:
-	human(string, int, int);
-	human();
-	void SayHello();
-	void SayGoodbye();
+	human(string givenName, int givenHealth = 30, int givenBaseDamage = 15) {
+		name = givenName;
+		health = givenHealth;
+		damage = givenBaseDamage; 
 
-	void SetHealth(int baseHealth) {
-		if (baseHealth < 1) {
-			health = 0;
-			cout << "Oh no! " << name << " died!\n";
-		}
-		else if (baseHealth > 30) {
-			health = 30;
-			cout << name << " is at full health!\n";
-		}
-		else {
-			health = baseHealth;
-			cout << name << " has " << health << " hit points left!\n";
-		}
+		cout << "I have shown up!\n";
 	}
 
-	void SetDamage(int baseDamage) {
+	human() {
+		name = "Kaydyn";
+		health = 30;
+		damage = 15;
+		
+	}
+
+	void SayHello() {
+		cout << "Hello! My name is " << name << " and my total health is " << health << ".\n";
+	}
+
+	void SayGoodbye() {
+	cout << "I was recalled to the factory for medical help.\n";
+		}
+
+	
+
+	void SetDamage(int givenBaseDamage) {
 		if (health < 15) {
-			baseDamage = 5;
+			givenBaseDamage = 5;
 		}
 		else if (health > 15) {
-			baseDamage = damage;
+			givenBaseDamage = damage;
 		}
 	}
 
 	void ChangeHealth(int by = 1) {
-		health += by;
-		SetHealth(health);
+		int tempHealth = health;		// Fixed!!!
+		tempHealth += by;
+		SetHealth(tempHealth);
 	}
 
 	int GetHealth() {
@@ -70,44 +77,86 @@ public:
 		return name;
 	}
 
+private:
+
+	void SetHealth(int givenHealth) {
+		if (givenHealth < 1) {
+			health = 0;
+			cout << "Oh no! " << name << " died!\n";
+		}
+		else if (givenHealth > 30) {
+			health = 30;
+			cout << name << " is at full health!\n";
+		}
+		else {
+			health = givenHealth;
+			cout << name << " has " << health << " hit points left!\n";
+		}
+	}
 
 
-protected:
 
 };
 
-// Constructors
-human::human(string givenName, int baseHealth, int baseDamage) {
-	name = givenName;
-	health = baseHealth;
-	damage = baseDamage;
+class witcher : public human {
+public:
+	int focus;
 
-	cout << "I have shown up!\n";
-}
+	void unsheathSword() {
+		cout << name << " unsheaths his silver monster sword!\n";
+	}
 
-void human::SayHello() {
-	cout << "Hello! My name is " << name << " and my total health is " << health << ".\n";
-}
+};
 
-void human::SayGoodbye() {
-	cout << "I was recalled to the factory for medical help.\n";
-}
+class wizard : public human {
+public:
+	int mana;
+
+	void castSpell() {
+		cout << name << " casts a spell!\n";
+	}
+
+	// build a spell that poisens any human.
+	// it will cut their health in half.
+	void poison(human& target) {
+		cout << "The terrible wizard " << name << " has poisoned " << target.GetName() << "!\n";
+		int halfOfTargetHealth = target.GetHealth() / 2;
+		target.ChangeHealth(-halfOfTargetHealth);
+	}
+};
+
 
 
 
 int main() {
 
+	wizard dumbledoor;
+	dumbledoor.SetName("Dumbledumb");
+	dumbledoor.SayHello();
+	dumbledoor.castSpell();
+
+	witcher number1;
+	number1.SetName("Geralt of Rivia");
+	number1.SayHello();
+	number1.unsheathSword();
+	
+
 	cout << "Are you read to meet my new human?\n";
 
 	human kaydyn;
 	kaydyn.SetName("Kaydyn Wilson");
-	kaydyn.SetHealth(50);
+	
 
-	cout << "This is my new human! Their name is " << kaydyn.GetName() << " and they have a base health of " << kaydyn.GetHealth() << " hit points and at full health they can do " << kaydyn.GetDamage() << " points of damage!\n";
-	cout << "Greet everyon human!\n";
+	dumbledoor.poison(kaydyn);
+
+	cout << "\t[Checking health after poison]\n";
 	kaydyn.SayHello();
 
-	kaydyn.ChangeHealth(14);
+	cout << "This is my new human! Their name is " << kaydyn.GetName() << " and they have a base health of " << kaydyn.GetHealth() << " hit points and at full health they can do " << kaydyn.GetDamage() << " points of damage!\n";
+	cout << "Greet everyone human!\n";
+	kaydyn.SayHello();
+
+	kaydyn.ChangeHealth(-16);
 	cout << "Oh no! Kaydyn decided to go adventuring and they came back hurt!\n";
 	cout << "They now have " << kaydyn.GetHealth() << " hit points left and can only do " << kaydyn.GetDamage() << " points of damage now!\n";
 

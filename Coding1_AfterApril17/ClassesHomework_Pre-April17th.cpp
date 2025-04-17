@@ -11,7 +11,9 @@ private:
 
 public:
 	human(string, int, int);
-	human();
+	human() {
+
+	}
 	void SayHello();
 	void SayGoodbye();
 
