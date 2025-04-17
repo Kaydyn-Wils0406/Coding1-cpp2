@@ -27,7 +27,7 @@
     <ClCompile Include="FavGamesCollection_HW_.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Co1We13_RobotClasses.cpp">
+    <ClCompile Include="Co1We13_HumanClass_HW.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
