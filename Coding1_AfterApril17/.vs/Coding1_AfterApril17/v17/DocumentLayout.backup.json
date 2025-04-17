@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ClassesHomework_Pre-April17th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:ClassesHomework_Pre-April17th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\Week13_Classwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:Week13_Classwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassesHomework_Pre-April17th.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ClassesHomework_Pre-April17th.cpp",
+              "RelativeDocumentMoniker": "ClassesHomework_Pre-April17th.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ClassesHomework_Pre-April17th.cpp",
+              "RelativeToolTip": "ClassesHomework_Pre-April17th.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T14:48:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week13_Classwork.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\Week13_Classwork.cpp",
+              "RelativeDocumentMoniker": "Week13_Classwork.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\Week13_Classwork.cpp",
+              "RelativeToolTip": "Week13_Classwork.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T14:45:09.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
