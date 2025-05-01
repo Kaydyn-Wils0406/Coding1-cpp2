@@ -1,26 +1,27 @@
 #include "filez.h"
 
-void WriteToFile(string givenString) {
+void WriteShipToFile(ship givenShip) {
 	// Open (or create) the file
-	ofstream file("file.txt", ios::app);
+	ofstream file("ShipType.txt", ios::app);
 
 	// Confirm that the file is open
 	if (!file.is_open()) {
 		cout << "Could not open file.\n";
 	}
 	// Write text to the open file. 
-	file << givenString;
+	file << &ship::status;
+
 
 	// Close the file (which saves it to disk)
 	file.close();
 
 }
 
-void ReadFromFile() {
+void ReadShipFromFile() {
 	string fileContents;
 
 	// open the file
-	ifstream file("file.txt");
+	ifstream file("ShipType.txt");
 
 	// check that it's actualy open
 	if (!file.is_open()) {

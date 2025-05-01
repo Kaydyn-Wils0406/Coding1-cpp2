@@ -3,13 +3,13 @@
 
 // define the constructor.
 ship::ship() {
-	name = "Blackbead's Transversal";
+	name = "Hua Cheng's Lantern";
 	fuel = 50;
 	type = FRIGATE;
 }
 
 void ship::status() {
-	cout << "The bad ship " << name << " has " << fuel << " fuel.\n";
+	cout << "The ship " << name << " has " << fuel << " fuel.\n";
 	cout << "The ship's type is ";
 
 	switch (type) {

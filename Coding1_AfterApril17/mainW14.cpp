@@ -15,14 +15,14 @@ int main() {
 	cout << "Let's write some new files!\n"; 
 
 	
-	ReadFromFile();
+	ReadShipFromFile();
 
 	ship trans;
 	trans.type = FIGHTER;
 	trans.status();
 
-	WriteToFile("Did you get the Oblivion Remastered?\n");
-
+	WriteShipToFile;		// I think there is a way to make this take in the ship status function but I can't figure out how 
+							// because we were taught the print string way only...
 	return 0;
 }
 
