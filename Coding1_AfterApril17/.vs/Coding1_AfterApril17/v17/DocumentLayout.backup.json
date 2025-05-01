@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\mainW14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:mainW14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\mainW14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:mainW14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41C78D75-4402-44AB-A8C3-CDA9EDA864D8}|Coding1_AfterApril17.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "filez.h",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.h",
               "RelativeDocumentMoniker": "filez.h",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.h",
               "RelativeToolTip": "filez.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T15:27:25.994Z",
               "IsPinned": true,
@@ -40,28 +48,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ship.cpp",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.cpp",
               "RelativeDocumentMoniker": "ship.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.cpp",
               "RelativeToolTip": "ship.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T15:43:04.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mainW14.cpp",
               "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\mainW14.cpp",
               "RelativeDocumentMoniker": "mainW14.cpp",
               "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\mainW14.cpp",
               "RelativeToolTip": "mainW14.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T14:45:09.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filez.cpp",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.cpp",
+              "RelativeDocumentMoniker": "filez.cpp",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\filez.cpp",
+              "RelativeToolTip": "filez.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T03:09:37.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ship.h",
+              "DocumentMoniker": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.h",
+              "RelativeDocumentMoniker": "ship.h",
+              "ToolTip": "C:\\Users\\maera\\GitHub\\Coding1-cpp2\\Coding1_AfterApril17\\ship.h",
+              "RelativeToolTip": "ship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T03:09:53.571Z",
               "EditorCaption": ""
             }
           ]

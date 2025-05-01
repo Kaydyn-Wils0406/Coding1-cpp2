@@ -5,7 +5,10 @@
 #include <string>
 using namespace std;
 
-void WriteShipToFile(string givenShip);
+void WriteToFile(string givenString);
 
-void ReadShipFromFile();
+void ReadFromFile();
+
+void WriteShipToFile(ship givenShip);
+
 
